@@ -10,7 +10,7 @@ Interface intuitiva e fácil de usar
 Recursos  configuração de permissões
 Relatórios detalhados lista de collaboradores
 
-#Como usar
+# 🛠️ Abrir e rodar o projeto
 Faça o clone do repositório para o seu computador: git clone https://github.com/seu-usuario/transfero-dashboard.git
 Acesse a pasta do repositório: cd transfero-dashboard
 Instale as dependências: yarn install
